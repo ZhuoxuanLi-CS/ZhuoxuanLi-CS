@@ -37,6 +37,8 @@
 - 🌏 Based in **Shanghai**
 - 🏸 Outside research, I enjoy badminton, music, photography, and long walks through cities
 
+ 
+
 ---
 
 <table align="right" border="0" cellpadding="0" cellspacing="0">
@@ -44,30 +46,66 @@
 <td align="center">
 
 <code>
+
 <img src="https://media.tenor.com/VIuRdCA_41sAAAAj/goose-walk-goose.gif" width="160" alt="pixel goose companion" />
+
 </code>
+
+
 
 <br>
 
+
+
 <sub><em>quietly waddling through research</em></sub>
 
+
+
 </td>
+
 </tr>
+
 </table>
+
+
 
 ### 🌿 A Small Note
 
+
+
 I am currently exploring data-driven modeling for mobility, recommendation, and decision systems.
 
+
+
+My recent interests lie around:
+
+
+
+- 🧭 understanding human mobility and spatial-temporal behavior
+
+- 🧩 building recommender systems from interaction traces
+
+- 📊 connecting data-driven models with economic and behavioral interpretation
+
+
+
 <em>
+
 Yo quepo en el mundo y el mundo cabe en mí<br>
+
 Yo ocupo el mundo y el mundo me ocupa a mí
+
 </em>
+
+
 
 <br clear="right"/>
 
+
+
 ---
 
+ 
 ### 🛰️ Research Orbit
 
 <p>
