@@ -43,9 +43,9 @@
 <tr>
 <td align="center">
 
-<code>
+<kbd>
 <img src="https://media.tenor.com/VIuRdCA_41sAAAAj/goose-walk-goose.gif" width="160" alt="pixel goose companion" />
-</code>
+</kbd>
 
 <br>
 
@@ -54,6 +54,7 @@
 </td>
 </tr>
 </table>
+
 ### 🌿 A Small Note
 
 I am currently exploring data-driven modeling for mobility, recommendation, and decision systems.
