@@ -38,7 +38,7 @@
 - 🏸 Outside research, I enjoy badminton, music, photography, and long walks through cities
 
  
----
+
 
 <table align="right" border="0" cellpadding="0" cellspacing="0">
 <tr>
