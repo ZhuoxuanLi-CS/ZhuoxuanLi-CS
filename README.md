@@ -37,9 +37,9 @@
 - 🌏 Based in **Shanghai**
 - 🏸 Outside research, I enjoy badminton, music, photography, and long walks through cities
 
-<table>
-<tr>
-<td width="70%" valign="middle">
+---
+
+<img align="right" src="https://media.tenor.com/OyV79OkXsb8AAAAj/duckie-duck.gif" width="135" alt="pixel duck companion" />
 
 ### 🌿 A Small Note
 
@@ -50,27 +50,16 @@ Yo quepo en el mundo y el mundo cabe en mí<br>
 Yo ocupo el mundo y el mundo me ocupa a mí
 </em>
 
-</td>
-<td width="30%" align="center" valign="middle">
-
-<img src="https://media.tenor.com/VIuRdCA_41sAAAAj/goose-walk-goose.gif" width="150" alt="pixel goose companion" />
-
-<br>
-
-<sub><em>quietly waddling through research</em></sub>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
 ### 🛰️ Research Orbit
 
 <p>
-  <img src="https://img.shields.io/badge/POI%20Recommendation-Spatio--temporal%20Modeling-F57F17?style=for-the-badge" alt="POI Recommendation" />
-  <img src="https://img.shields.io/badge/Recommender%20Systems-User%20Behavior%20Modeling-7E57C2?style=for-the-badge" alt="Recommender Systems" />
-  <img src="https://img.shields.io/badge/Econometrics-Data--driven%20Inference-26A69A?style=for-the-badge" alt="Econometrics" />
+  <img src="https://img.shields.io/badge/Recommender%20Systems-5C4B51?style=for-the-badge" alt="Recommender Systems" />
+  <img src="https://img.shields.io/badge/Spatio--temporal%20Data%20Mining-F57F17?style=for-the-badge" alt="Spatio-temporal Data Mining" />
+  <img src="https://img.shields.io/badge/Econometrics-2A9D8F?style=for-the-badge" alt="Econometrics" />
 </p>
 
 ### ⚙️ Toolkit
@@ -80,12 +69,6 @@ Yo ocupo el mundo y el mundo me ocupa a mí
 </p>
 
 ---
-
-<p align="center">
-  <sub>
-    Research is a long walk through uncertainty; I try to make each step a little more precise.
-  </sub>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=110&section=footer" alt="Footer" />
