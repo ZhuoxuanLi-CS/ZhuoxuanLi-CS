@@ -53,17 +53,25 @@
 ### ⚙️ Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,latex,git,github,vscode,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,latex,git,github,linux&perline=6" />
 </p>
 
 ---
 
-### ✨ A Little More
+### 🐾 Little Companion
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Coding Cat" />
+</p>
+
+---
+
+### ✨ Motto
 
 <p align="center">
   <em>
-    Modeling human mobility, learning from interaction traces,  
-    and building systems that connect people, places, and decisions.
+    Yo quepo en el mundo y el mundo cabe en mí<br>
+    Yo ocupo el mundo y el mundo me ocupa a mí
   </em>
 </p>
 
