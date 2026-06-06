@@ -39,7 +39,7 @@
 
 ---
 
-<img align="right" src="https://media.tenor.com/OyV79OkXsb8AAAAj/duckie-duck.gif" width="135" alt="pixel duck companion" />
+<img align="right" src="https://raw.githubusercontent.com/ZhuoxuanLi-CS/ZhuoxuanLi-CS/main/assets/goose-soft-bg.gif" width="165" alt="pixel goose companion" />
 
 ### 🌿 A Small Note
 
