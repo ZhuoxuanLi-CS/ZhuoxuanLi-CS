@@ -39,11 +39,13 @@
 
 ---
 
-<table align="right" bgcolor="#C9C9C9" border="0" cellpadding="10" cellspacing="0">
+<table align="right" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center">
 
-<img src="https://media.tenor.com/VIuRdCA_41sAAAAj/goose-walk-goose.gif" width="150" alt="pixel goose companion" />
+<code>
+<img src="https://media.tenor.com/VIuRdCA_41sAAAAj/goose-walk-goose.gif" width="160" alt="pixel goose companion" />
+</code>
 
 <br>
 
@@ -52,7 +54,6 @@
 </td>
 </tr>
 </table>
-
 ### 🌿 A Small Note
 
 I am currently exploring data-driven modeling for mobility, recommendation, and decision systems.
