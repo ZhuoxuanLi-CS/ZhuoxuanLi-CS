@@ -37,8 +37,7 @@
 - 🌏 Based in **Shanghai**
 - 🏸 Outside research, I enjoy badminton, music, photography, and long walks through cities
 
- 
-
+---
 
 <table align="right" border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -71,6 +70,7 @@ Yo quepo en el mundo y el mundo cabe en mí<br>
 Yo ocupo el mundo y el mundo me ocupa a mí
 </em>
 <br clear="right"/>
+
 ---
 
  
