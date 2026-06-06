@@ -39,7 +39,7 @@
 
 ---
 
-<table align="right" bgcolor="#f6f3ee" border="0" cellpadding="10" cellspacing="0">
+<table align="right" bgcolor="#e7e0d4" border="0" cellpadding="10" cellspacing="0">
 <tr>
 <td align="center">
 
@@ -93,4 +93,3 @@ Yo ocupo el mundo y el mundo me ocupa a mí
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=110&section=footer" alt="Footer" />
 </p>
-```
