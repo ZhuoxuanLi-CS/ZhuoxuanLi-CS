@@ -1,34 +1,38 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Zhuoxuan%20Li&fontSize=46&fontAlignY=35&desc=Data%20Science%20%7C%20Recommender%20Systems%20%7C%20Spatio-temporal%20Data%20Mining&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Zhuoxuan%20Li&fontSize=46&fontAlignY=35&desc=Data%20Science%20%7C%20Recommender%20Systems%20%7C%20Spatio-temporal%20Data%20Mining&descAlignY=58&animation=fadeIn" alt="Header" />
 </p>
 
 <h2 align="center">Hi there, I'm 李卓轩 👋</h2>
 
 <p align="center">
   <a href="https://github.com/ZhuoxuanLi-CS">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=F57F17&center=true&vCenter=true&width=760&lines=Hi+there!+Welcome+to+my+GitHub!;Undergraduate+Researcher+%2F+Data+Science;Recommender+Systems+%7C+Spatio-temporal+Data+Mining;Building+models+for+people%2C+places%2C+and+decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=F57F17&center=true&vCenter=true&width=760&lines=Hi+there!+Welcome+to+my+GitHub!;Undergraduate+Researcher+%2F+Data+Science;Recommender+Systems+%7C+Spatio-temporal+Data+Mining;Learning+from+people%2C+places%2C+and+decisions" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://zhuoxuanli-cs.github.io/">
-    <img src="https://img.shields.io/badge/Homepage-zhuoxuanli--cs.github.io-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Homepage-zhuoxuanli--cs.github.io-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage" />
   </a>
   <a href="https://scholar.google.com/citations?user=_hGkKOEAAAAJ&hl=zh-CN">
-    <img src="https://img.shields.io/badge/Google%20Scholar-zhuoxuanli-4285F4?logo=google-scholar&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-zhuoxuanli-4285F4?logo=google-scholar&logoColor=white&style=flat-square" alt="Google Scholar" />
   </a>
   <a href="https://orcid.org/0009-0004-2109-8980">
-    <img src="https://img.shields.io/badge/ORCID-0009--0004--2109--8980-A6CE39?logo=orcid&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/ORCID-0009--0004--2109--8980-A6CE39?logo=orcid&logoColor=white&style=flat-square" alt="ORCID" />
   </a>
   <a href="https://openreview.net/profile?id=%7EZhuoxuan_Li2">
-    <img src="https://img.shields.io/badge/OpenReview-Zhuoxuan%20Li-8C1D40?style=flat-square" />
+    <img src="https://img.shields.io/badge/OpenReview-Zhuoxuan%20Li-8C1D40?style=flat-square" alt="OpenReview" />
   </a>
   <a href="mailto:lizhuxuan04@tongji.edu.cn">
-    <img src="https://img.shields.io/badge/Email-lizhuxuan04%40tongji.edu.cn-D14836?logo=gmail&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Email-lizhuxuan04%40tongji.edu.cn-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
   </a>
 </p>
 
 ---
+
+<table>
+<tr>
+<td valign="top" width="72%">
 
 ### 🧭 About Me
 
@@ -36,45 +40,47 @@
 - 🔬 Research interests: **Recommender Systems**, **Spatio-temporal Data Mining**, and **Econometrics**
 - 🧪 Currently exploring data-driven modeling for mobility, recommendation, and decision systems
 - 🌏 Based in **Shanghai**
-- 🏸 Outside research, I play badminton and enjoy music, photography, and long walks through cities
-
----
+- 🏸 Outside research, I enjoy badminton, music, photography, and long walks through cities
 
 ### 🛰️ Research Orbit
 
-<p align="center">
-  <img src="https://img.shields.io/badge/POI%20Recommendation-Spatio--temporal%20Modeling-F57F17?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Recommender%20Systems-User%20Behavior%20Modeling-7E57C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Econometrics-Data--driven%20Inference-26A69A?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/POI%20Recommendation-Spatio--temporal%20Modeling-F57F17?style=for-the-badge" alt="POI Recommendation" />
+  <img src="https://img.shields.io/badge/Recommender%20Systems-User%20Behavior%20Modeling-7E57C2?style=for-the-badge" alt="Recommender Systems" />
+  <img src="https://img.shields.io/badge/Econometrics-Data--driven%20Inference-26A69A?style=for-the-badge" alt="Econometrics" />
 </p>
-
----
 
 ### ⚙️ Toolkit
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,latex,git,github,linux&perline=6" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,latex&perline=5" alt="Toolkit" />
 </p>
-
----
-
-### 🐾 Little Companion
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Coding Cat" />
-</p>
-
----
 
 ### ✨ Motto
 
-<p align="center">
+<p>
   <em>
     Yo quepo en el mundo y el mundo cabe en mí<br>
     Yo ocupo el mundo y el mundo me ocupa a mí
   </em>
 </p>
 
+</td>
+
+<td valign="top" width="28%" align="center">
+
+<img src="./assets/pixel-pet.gif" width="170" alt="pixel pet" />
+
+<br><br>
+
+<sub><em>a tiny companion beside my research journey</em></sub>
+
+</td>
+</tr>
+</table>
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=110&section=footer" alt="Footer" />
 </p>
