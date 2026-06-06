@@ -43,9 +43,9 @@
 <tr>
 <td align="center">
 
-<kbd>
+<code>
 <img src="https://media.tenor.com/VIuRdCA_41sAAAAj/goose-walk-goose.gif" width="160" alt="pixel goose companion" />
-</kbd>
+</code>
 
 <br>
 
