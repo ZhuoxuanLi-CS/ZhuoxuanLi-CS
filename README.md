@@ -38,16 +38,15 @@
 - 🏸 Outside research, I enjoy badminton, music, photography, and long walks through cities
 
  
-
 ---
 
 <table align="right" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center">
 
-<code>
+<kbd>
 <img src="https://media.tenor.com/VIuRdCA_41sAAAAj/goose-walk-goose.gif" width="160" alt="pixel goose companion" />
-</code>
+</kbd>
 
 <br>
 
@@ -61,16 +60,17 @@
 
 I am currently exploring data-driven modeling for mobility, recommendation, and decision systems.
 
-I am interested in how people move, choose, and interact with places and information.  
-My work tries to connect recommender systems, spatio-temporal data mining, and econometric thinking.
+My recent interests lie around:
+
+- 🧭 understanding human mobility and spatial-temporal behavior
+- 🧩 building recommender systems from interaction traces
+- 📊 connecting data-driven models with economic and behavioral interpretation
 
 <em>
 Yo quepo en el mundo y el mundo cabe en mí<br>
 Yo ocupo el mundo y el mundo me ocupa a mí
 </em>
-
 <br clear="right"/>
-
 ---
 
  
