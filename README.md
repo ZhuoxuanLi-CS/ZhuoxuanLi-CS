@@ -1,3 +1,4 @@
+```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Zhuoxuan%20Li&fontSize=46&fontAlignY=35&desc=Data%20Science%20%7C%20Recommender%20Systems%20%7C%20Spatio-temporal%20Data%20Mining&descAlignY=58&animation=fadeIn" alt="Header" />
 </p>
@@ -32,17 +33,19 @@
 
 <table>
 <tr>
-<td valign="top" width="72%">
+<td width="72%" valign="top">
 
-### 🧭 About Me
+<h3>🧭 About Me</h3>
 
-- 🎓 Undergraduate student at [Tongji University](https://www.tongji.edu.cn), majoring in **Data Science**
-- 🔬 Research interests: **Recommender Systems**, **Spatio-temporal Data Mining**, and **Econometrics**
-- 🧪 Currently exploring data-driven modeling for mobility, recommendation, and decision systems
-- 🌏 Based in **Shanghai**
-- 🏸 Outside research, I enjoy badminton, music, photography, and long walks through cities
+<ul>
+  <li>🎓 Undergraduate student at <a href="https://www.tongji.edu.cn">Tongji University</a>, majoring in <b>Data Science</b></li>
+  <li>🔬 Research interests: <b>Recommender Systems</b>, <b>Spatio-temporal Data Mining</b>, and <b>Econometrics</b></li>
+  <li>🧪 Currently exploring data-driven modeling for mobility, recommendation, and decision systems</li>
+  <li>🌏 Based in <b>Shanghai</b></li>
+  <li>🏸 Outside research, I enjoy badminton, music, photography, and long walks through cities</li>
+</ul>
 
-### 🛰️ Research Orbit
+<h3>🛰️ Research Orbit</h3>
 
 <p>
   <img src="https://img.shields.io/badge/POI%20Recommendation-Spatio--temporal%20Modeling-F57F17?style=for-the-badge" alt="POI Recommendation" />
@@ -50,13 +53,13 @@
   <img src="https://img.shields.io/badge/Econometrics-Data--driven%20Inference-26A69A?style=for-the-badge" alt="Econometrics" />
 </p>
 
-### ⚙️ Toolkit
+<h3>⚙️ Toolkit</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,latex&perline=5" alt="Toolkit" />
 </p>
 
-### ✨ Motto
+<h3>✨ Motto</h3>
 
 <p>
   <em>
@@ -67,13 +70,19 @@
 
 </td>
 
-<td valign="top" width="28%" align="center">
+<td width="28%" align="center" valign="middle">
 
-<img src="./assets/pixel-pet.gif" width="170" alt="pixel pet" />
+<img src="https://raw.githubusercontent.com/sankalpaacharya/webpets/master/public/generated/fox/red_walk_8fps.gif" width="180" alt="pixel fox companion" />
 
 <br><br>
 
-<sub><em>a tiny companion beside my research journey</em></sub>
+<sub>
+  <em>curious mode: on</em>
+</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/tiny%20companion-focused%20%2F%20mischievous-F57F17?style=flat-square" alt="tiny companion badge" />
 
 </td>
 </tr>
@@ -82,5 +91,12 @@
 ---
 
 <p align="center">
+  <sub>
+    Research is a long walk through uncertainty; I try to make each step a little more precise.
+  </sub>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=110&section=footer" alt="Footer" />
 </p>
+```
